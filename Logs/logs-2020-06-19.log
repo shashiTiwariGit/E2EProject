@@ -1,0 +1,70 @@
+12:41:35.452 [TestNG-tests-2] INFO  java.lang.Class - Browser is Initialize
+12:41:42.075 [TestNG-tests-2] INFO  java.lang.Class - navigated to Login Page
+12:41:42.599 [TestNG-tests-2] INFO  java.lang.Class - Entered Email
+12:41:42.788 [TestNG-tests-2] INFO  java.lang.Class - Entered Password
+12:41:45.653 [TestNG-tests-2] INFO  java.lang.Class - Browser is Teared Down
+12:42:17.207 [TestNG-tests-1] INFO  java.lang.Class - Browser is Initialize
+12:42:17.207 [TestNG-tests-2] INFO  java.lang.Class - Browser is Initialize
+12:42:17.207 [TestNG-tests-3] INFO  java.lang.Class - Browser is Initialize
+12:42:26.001 [TestNG-tests-1] INFO  java.lang.Class - Test Case Passed
+12:42:26.681 [TestNG-tests-2] INFO  java.lang.Class - Browser is Initialize
+12:42:28.242 [TestNG-tests-3] INFO  java.lang.Class - Click on Contacts link
+12:42:28.287 [TestNG-tests-3] WARN  java.lang.Class - Checked it with Title
+12:42:28.297 [TestNG-tests-3] WARN  java.lang.Class - Checked contact Url
+12:42:28.518 [TestNG-tests-1] INFO  java.lang.Class - Browser is Teared Down
+12:42:28.767 [TestNG-tests-3] INFO  java.lang.Class - Browser is Teared Down
+12:42:35.092 [TestNG-tests-2] INFO  java.lang.Class - navigated to Login Page
+12:42:35.709 [TestNG-tests-2] INFO  java.lang.Class - Entered Email
+12:42:35.867 [TestNG-tests-2] INFO  java.lang.Class - Entered Password
+12:42:38.744 [TestNG-tests-2] INFO  java.lang.Class - Browser is Teared Down
+12:42:44.268 [TestNG-tests-2] INFO  java.lang.Class - Browser is Initialize
+12:42:55.811 [TestNG-tests-2] INFO  java.lang.Class - navigated to Login Page
+12:42:56.214 [TestNG-tests-2] INFO  java.lang.Class - Entered Email
+12:42:56.416 [TestNG-tests-2] INFO  java.lang.Class - Entered Password
+12:42:59.215 [TestNG-tests-2] INFO  java.lang.Class - Browser is Teared Down
+13:57:22.890 [TestNG-tests-1] INFO  java.lang.Class - Browser is Initialize
+13:57:22.890 [TestNG-tests-3] INFO  java.lang.Class - Browser is Initialize
+13:57:22.890 [TestNG-tests-2] INFO  java.lang.Class - Browser is Initialize
+13:57:30.362 [TestNG-tests-2] INFO  java.lang.Class - Browser is Initialize
+13:57:33.220 [TestNG-tests-1] INFO  java.lang.Class - Test Case Passed
+13:57:33.513 [TestNG-tests-1] INFO  java.lang.Class - Browser is Teared Down
+13:57:33.687 [TestNG-tests-3] INFO  java.lang.Class - Click on Contacts link
+13:57:34.001 [TestNG-tests-3] WARN  java.lang.Class - Checked it with Title
+13:57:34.028 [TestNG-tests-3] WARN  java.lang.Class - Checked contact Url
+13:57:34.329 [TestNG-tests-3] INFO  java.lang.Class - Browser is Teared Down
+13:57:40.484 [TestNG-tests-2] INFO  java.lang.Class - navigated to Login Page
+13:57:40.722 [TestNG-tests-2] INFO  java.lang.Class - Entered Email
+13:57:40.947 [TestNG-tests-2] INFO  java.lang.Class - Entered Password
+13:57:44.017 [TestNG-tests-2] INFO  java.lang.Class - Browser is Teared Down
+13:57:49.441 [TestNG-tests-2] INFO  java.lang.Class - Browser is Initialize
+13:58:00.830 [TestNG-tests-2] INFO  java.lang.Class - navigated to Login Page
+13:58:01.290 [TestNG-tests-2] INFO  java.lang.Class - Entered Email
+13:58:01.536 [TestNG-tests-2] INFO  java.lang.Class - Entered Password
+13:58:04.382 [TestNG-tests-2] INFO  java.lang.Class - Browser is Teared Down
+14:01:03.074 [main] INFO  java.lang.Class - Browser is Initialize
+14:01:08.973 [main] INFO  java.lang.Class - Test Case Passed
+14:01:09.094 [main] INFO  java.lang.Class - Browser is Teared Down
+14:01:09.138 [main] INFO  java.lang.Class - Browser is Initialize
+14:01:14.027 [main] INFO  java.lang.Class - Browser is Initialize
+14:01:19.824 [main] INFO  java.lang.Class - navigated to Login Page
+14:01:20.297 [main] INFO  java.lang.Class - Entered Email
+14:01:20.549 [main] INFO  java.lang.Class - Entered Password
+14:01:23.517 [main] INFO  java.lang.Class - Browser is Teared Down
+14:01:39.836 [main] INFO  java.lang.Class - Browser is Initialize
+14:03:48.446 [main] INFO  java.lang.Class - Browser is Initialize
+14:04:06.089 [main] INFO  java.lang.Class - Test Case Passed
+14:04:06.202 [main] INFO  java.lang.Class - Browser is Teared Down
+14:04:06.243 [main] INFO  java.lang.Class - Browser is Initialize
+14:04:18.987 [main] INFO  java.lang.Class - Browser is Initialize
+14:04:24.122 [main] INFO  java.lang.Class - navigated to Login Page
+14:04:24.570 [main] INFO  java.lang.Class - Entered Email
+14:04:24.747 [main] INFO  java.lang.Class - Entered Password
+14:04:27.174 [main] INFO  java.lang.Class - Browser is Teared Down
+14:04:34.141 [main] INFO  java.lang.Class - Browser is Initialize
+14:04:42.157 [main] INFO  java.lang.Class - navigated to Login Page
+14:04:42.763 [main] INFO  java.lang.Class - Entered Email
+14:04:43.032 [main] INFO  java.lang.Class - Entered Password
+14:04:45.964 [main] INFO  java.lang.Class - Browser is Teared Down
+14:04:46.014 [main] INFO  java.lang.Class - Browser is Initialize
+14:04:57.246 [main] INFO  java.lang.Class - Click on Contacts link
+14:04:57.264 [main] WARN  java.lang.Class - Checked it with Title
